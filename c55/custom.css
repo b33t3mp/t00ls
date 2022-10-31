@@ -1,14 +1,16 @@
 .tools-cat-list {
     display: inline-block;
-    font-weight: 500;
     border-bottom: #dfdfdf solid 1px;
     border-top: #dfdfdf solid 1px;
     padding: 10px 10px 0px 10px;
-} 
+    width: 100%;
+    position: relative;
+}
 
 .tools-icon-m {
-    width: 115px;
+    width: 25%;
     float: left;
+    position: relative;
 }
 
 .tools-cat-list h3 {
@@ -16,9 +18,8 @@
     font-weight: 600;
     font-size: 20px;
     color: #444444 !important;
-    float: left;
-    width: 100%;
-    position: absolute;
+    width: 75%;
+    position: relative;
     margin-top: 22px;
 }
 
@@ -26,4 +27,7 @@
     display: inline-block;
     color: #444444;
     font-size: 13px;
-}  
+    position: relative;
+    margin-top: -10px;
+    width: 75%;
+}

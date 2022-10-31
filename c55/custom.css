@@ -6,3 +6,15 @@
 .tools-icon-m {
     width: 115px;
 }
+
+.tools-cat-list h3 {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 20px;
+    color: #444444;
+}
+
+.tools-cat-list p {
+    display: inline-block;
+    color: #444444;
+}

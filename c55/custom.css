@@ -1,3 +1,9 @@
+/* Always Useful */
+.border-top-1 { border-top: #dfdfdf solid 1px; }
+.border-bottom-1 { border-top: #dfdfdf solid 1px; }
+
+
+
 .tools-cat-list {
     display: inline-block;
     border-bottom: #dfdfdf solid 1px;
@@ -5,6 +11,7 @@
     padding: 10px 12px 10px 10px;
     width: 100%;
     position: relative;
+    margin-top: -1px;
 }
 
 .tools-icon-m {
